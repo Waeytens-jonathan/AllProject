@@ -30,4 +30,4 @@ Enfin après toute les étapes voici les photos du PCB en réel:
 ![DSC_1159](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/9500cd58-00a8-488c-8139-c0ce4f8aa8f1)
 ![DSC_1160](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/7383481a-f31f-4deb-9d1a-ce2437f0afab)
 
-Toute les soududes ont était réalisé par mes soins ainsi que tout les test de fonctionnement.
+Toute les soudures ont était réalisé par mes soins ainsi que tout les test de fonctionnement.
