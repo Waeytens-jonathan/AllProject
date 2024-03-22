@@ -14,7 +14,7 @@ Son dévelloppement à commencer par l'apprentissage des capacitées suivantes:
 
 L'apprentissage de toute ces connaissances m'aura pris 1 an environs sans compter le prix des machines et de tout les tests échoué
 
-## Voici les photos de la conception 3D:
+## **Voici les photos de la conception 3D:**
 
 Face Avant
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/cdc87ef3-588e-445c-8859-139f9915b4b2)
@@ -25,16 +25,17 @@ Boitier Arrière
 Support écran
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/3c842a0d-a71f-47da-8be7-cb55635162f3)
 
+Bouttons plat et concave
+![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/67a51e42-63ad-4a35-9c77-eb124da4f833)
 
 
-
-### Les fichiers pour la gravue laser de mon projet:
+### **Les fichiers pour la gravue laser de mon projet:**
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/1e757e10-d326-4690-b6a2-e2273d8fd9e6)
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/40606b38-4fb4-42a4-9fa6-0732ffbccdab)
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/ae42f8e9-307b-45e8-b50d-b77e41cabd13)
 
 
-#### Voici quelques photo de mon projet fini:
+#### **Voici quelques photo de mon projet fini:**
                                     
 ![DSC_0294 (2)-min](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/be99cc89-67ec-49d7-b6a6-34bc59f52448)
 ![DSC_0309-min](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/b53e7a47-da9e-4794-a17b-0619d5a462dd)
