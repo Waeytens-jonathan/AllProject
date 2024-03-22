@@ -16,6 +16,12 @@ Maintenant la partie Diagrame:
 
 La partie placement des composants dans le .DXF
 
-La partie placement des composants dans le .DXF![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/85783c66-00a1-497d-bd00-4b80ef2d1675)
+![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/85783c66-00a1-497d-bd00-4b80ef2d1675)
 
+
+
+
+
+
+https://github.com/Waeytens-jonathan/AllProject/assets/63521965/1d3da66e-60e0-4a30-be52-cab7d6856100
 
