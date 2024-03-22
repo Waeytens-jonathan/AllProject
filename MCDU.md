@@ -17,10 +17,10 @@ L'apprentissage de toute ces connaissances m'aura pris 1 an environs sans compte
 ## **Voici les photos de la conception 3D:**
 
 Face Avant
-![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/cdc87ef3-588e-445c-8859-139f9915b4b2)
+![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/2f76e8a4-abe8-4be3-bc32-1ae064fd025e)
 
 Boitier Arrière
-![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/4ae8326a-3259-484b-92b9-455b7e704a1a)
+![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/14bc593f-27d5-4750-9d2c-09af1876d63f)
 
 Support écran
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/3c842a0d-a71f-47da-8be7-cb55635162f3)
@@ -30,6 +30,8 @@ Bouttons plat et concave
 
 
 ### **Les fichiers pour la gravue laser de mon projet:**
+
+Le logiciel utilisé est LIGHTBURN.
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/1e757e10-d326-4690-b6a2-e2273d8fd9e6)
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/40606b38-4fb4-42a4-9fa6-0732ffbccdab)
 ![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/ae42f8e9-307b-45e8-b50d-b77e41cabd13)
