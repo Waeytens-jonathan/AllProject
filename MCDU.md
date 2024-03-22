@@ -17,7 +17,8 @@ L'apprentissage de toute ces connaissances m'aura pris 1 an environs sans compte
 ## Voici les photos de la conception 3D:
 
 ### Les fichiers pour la gravue laser de mon projet:
-[Uploading Alphabet.dxf…]()
+![image](https://github.com/Waeytens-jonathan/AllProject/assets/63521965/1e757e10-d326-4690-b6a2-e2273d8fd9e6)
+
 
 
 #### Voici quelques photo de mon projet fini:
