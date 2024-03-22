@@ -1,7 +1,7 @@
 # **Bonjour et bienvenue dans le GITHUB de mon Projet MCDU pour un Airbus A-320**
 
 
-Son dévelloppement à commencer par l'apprentissage des capacitées suivantes:
+Son dévelloppement à commencé par l'apprentissage des capacitées suivantes:
 
 - Conception 3D sur Fusion 360 et Blender.
 - Recherche de référence pour les mesures.
